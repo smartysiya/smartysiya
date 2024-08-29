@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smartysiya
-- 👀 I’m interested in hacking
+- 👀 I’m interested in ........
 - 🌱 I’m currently exploring new things
 
 <!---
