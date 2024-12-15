@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smartysiya
+- 👋 Hi, I’m @smarty
 - 👀 I’m interested in ........
 - 🌱 I’m currently exploring new things
 
