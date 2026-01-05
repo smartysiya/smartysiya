@@ -23,6 +23,9 @@ Learning: Advanced Frontend, Open Source
 Motto: Make it simple, make it beautiful ✨
 ```
 
+## ⚙️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,python,java" /> </p>
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-8E2DE2?style=for-the-badge&logo=html5&logoColor=white" />
@@ -41,19 +44,9 @@ Motto: Make it simple, make it beautiful ✨
 
 </p>
 
-
-## ⚙️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,python,java" /> </p>
-
 ## 📊 GitHub Stats
 
 ![Smarty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smartysiya&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
-![Smarty's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smartysiya&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
-![Smarty's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=smartysiya&theme=tokyo-night&hide_border=true)
-
-
 
 ## ✨ What I Do
 
@@ -64,6 +57,16 @@ Motto: Make it simple, make it beautiful ✨
 
 ## 🌐 Connect With Me
 <p align="center"> <a href="https://github.com/smartysiya"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/> </a> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-4A00E0?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="#"> <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram"/> </a> </p>
+
+
+## 🐍 Contribution Snake (Neon Purple)
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/smartysiya/smartysiya/output/github-contribution-grid-snake-dark.svg"
+    alt="Neon Snake Animation"
+  />
+</p>
 
 <!-- Footer --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/> </p>
 
