@@ -20,7 +20,7 @@ Name: Smarty
 Username: smartysiya
 Location: Bangalore, India
 Interests: Animations, UI/UX, Full Stack Development 
-Learning: Advanced Frontend, Open Source
+Learning: Advanced Frontend, Open Source, Gen & Agentic AI 
 Motto: Make it simple, make it beautiful ✨
 ```
 
