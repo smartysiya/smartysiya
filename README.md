@@ -44,10 +44,6 @@ Motto: Make it simple, make it beautiful ✨
 
 </p>
 
-## 📊 GitHub Stats
-
-![Smarty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smartysiya&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
 ## ✨ What I Do
 
 🎨 Design clean & animated interfaces
