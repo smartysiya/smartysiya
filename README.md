@@ -27,7 +27,6 @@ Motto: Make it simple, make it beautiful ✨
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,python,java" /> </p>
 
 📊 GitHub Stats
-## 📊 GitHub Stats
 
 <p align="center">
   <img
