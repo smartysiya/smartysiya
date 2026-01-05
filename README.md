@@ -19,6 +19,7 @@ Location: India 🇮🇳
 Interests: Animations, UI/UX, Web Development
 Learning: Advanced Frontend, Open Source
 Motto: Make it simple, make it beautiful ✨
+```
 
 ⚙️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,python,java" /> </p>
