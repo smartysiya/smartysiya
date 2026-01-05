@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Hi%20I'm%20Smarty%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/smartysiya/smartysiya/main/assets/neon-header.svg" />
+</p>
+
+
 <!-- Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=550&lines=Creative+Developer;Animation+Enthusiast;Open+Source+Learner;Building+Cool+Things+🚀" 
@@ -62,26 +67,10 @@ Motto: Make it simple, make it beautiful ✨
   </a>
 </p>
 
-
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C77DFF,100:4A00E0&height=2&section=footer" />
-</p>
+## 🎧 Spotify (Recently Played)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=LISTENING%20ON%20SPOTIFY&fontColor=BB86FC&fontSize=28" />
-</p>
-
-<p align="center">
-  <img
-    src="https://spotify-github-profile.vercel.app/api/view?uid=31tpb2s7lz6fzklvwxf5ettnizp4&cover_image=true&theme=novatorem&background_color=0d1117&bar_color=9D4EDD&bar_color_cover=true"
-    width="420"
-  />
-</p>
-
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=2&section=footer" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tpb2s7lz6fzklvwxf5ettnizp4&count=5" />
 </p>
 
 
@@ -94,5 +83,6 @@ Motto: Make it simple, make it beautiful ✨
   />
 </p>
 
-<!-- Footer --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/> </p>
+<!-- Footer --> 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/> </p>
 
