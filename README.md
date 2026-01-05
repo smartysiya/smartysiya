@@ -65,6 +65,10 @@ Motto: Make it simple, make it beautiful ✨
   </a>
 </p>
 
+<p align="center">
+  <img src="https://metrics.lecoq.io/smartysiya?template=classic&config.timezone=Asia%2FKolkata&base.indepth=true&base.hireable=true&base.metadata=0&languages=true&languages.limit=6&languages.colors=github&languages.details=bytes-size&languages.indepth=true&theme=purple" />
+</p>
+
 ## 🎧 Spotify
 
 <p align="center">
