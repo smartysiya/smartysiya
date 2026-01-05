@@ -12,7 +12,7 @@
 
 ---
 
-🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 ```yaml
 Name: Smarty
@@ -23,7 +23,26 @@ Learning: Advanced Frontend, Open Source
 Motto: Make it simple, make it beautiful ✨
 ```
 
-⚙️ Tech Stack
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-8E2DE2?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-7B2CBF?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-9D4EDD?style=for-the-badge&logo=javascript&logoColor=white" />
+
+<img src="https://img.shields.io/badge/React-5A189A?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-4A00E0?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-8E2DE2?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-7B2CBF?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-9D4EDD?style=for-the-badge&logo=java&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Git-5A189A?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-4A00E0?style=for-the-badge&logo=github&logoColor=white" />
+
+</p>
+
+
+## ⚙️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,python,java" /> </p>
 
 ## 📊 GitHub Stats
@@ -36,14 +55,14 @@ Motto: Make it simple, make it beautiful ✨
 
 
 
-✨ What I Do
+## ✨ What I Do
 
 🎨 Design clean & animated interfaces
 ⚡ Build modern web apps
 🧠 Learn & experiment daily
 🌱 Grow through open source
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 <p align="center"> <a href="https://github.com/smartysiya"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/> </a> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-4A00E0?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="#"> <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram"/> </a> </p>
 
 <!-- Footer --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/> </p>
