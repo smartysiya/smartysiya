@@ -77,13 +77,15 @@ Connecting people through open chords and open source.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smartysiya&show_icons=true&theme=dracula&title_color=8E2DE2&icon_color=BB86FC&bg_color=0D1117&hide_border=false" alt="Smarty's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartysiya&layout=compact&theme=dracula&title_color=8E2DE2&icon_color=BB86FC&bg_color=0D1117&hide_border=false" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smartysiya&theme=dracula" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smartysiya&theme=dracula&currStreakNum=BB86FC&sideLabels=ffffff&stroke=4A00E0&fire=8E2DE2" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smartysiya&layout=compact&theme=dracula&title_color=8E2DE2" alt="Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smartysiya&theme=dracula&fire=8E2DE2&v=2" alt="Streak" />
 </p>
 
 ## 🐍 Contribution Snake 
