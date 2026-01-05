@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+🧑‍💻 About Me
 
 ```yaml
 Name: Smarty
@@ -26,24 +26,14 @@ Motto: Make it simple, make it beautiful ✨
 ⚙️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,python,java" /> </p>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=smartysiya&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=smartysiya&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
+![Smarty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smartysiya&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=smartysiya&theme=tokyo-night&hide_border=true"
-  />
-</p>
+![Smarty's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smartysiya&theme=tokyonight&hide_border=true&cache_seconds=86400)
+
+![Smarty's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=smartysiya&theme=tokyo-night&hide_border=true)
+
 
 
 ✨ What I Do
