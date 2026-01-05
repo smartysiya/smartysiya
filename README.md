@@ -85,7 +85,7 @@ Connecting people through open chords and open source.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smartysiya&theme=dracula&fire=8E2DE2&v=2" alt="Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=smartysiya&theme=radical&fire=8E2DE2&ring=BB86FC" alt="GitHub Streak" />
 </p>
 
 ## 🐍 Contribution Snake 
