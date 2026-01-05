@@ -5,7 +5,7 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Creative+Developer;Animation+Enthusiast;Open+Source+Learner;Building+Cool+Things+🚀&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Creative+Developer;Animation+Enthusiast;Open+Source+Learner;Building+Cool+Things+🚀" />
 </p>
 
 ---
