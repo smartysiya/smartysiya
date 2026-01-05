@@ -74,6 +74,18 @@ Connecting people through open chords and open source.
   </a>
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smartysiya&show_icons=true&theme=transparent&title_color=BB86FC&text_color=ffffff&icon_color=8E2DE2&border_color=4A00E0&hide_border=false" alt="Smarty's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartysiya&layout=compact&theme=transparent&title_color=BB86FC&text_color=ffffff&icon_color=8E2DE2&border_color=4A00E0&hide_border=false" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smartysiya&theme=transparent&currStreakNum=BB86FC&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&ring=8E2DE2&fire=8E2DE2&stroke=4A00E0&hide_border=false" alt="GitHub Streak" />
+</p>
+
 ## 🐍 Contribution Snake 
 
 <p align="center">
