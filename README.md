@@ -44,12 +44,14 @@ Motto: Make it simple, make it beautiful ✨
 
 </p>
 
+
 ## ✨ What I Do
 
 🎨 Design clean & animated interfaces
 ⚡ Build modern web apps
 🧠 Learn & experiment daily
 🌱 Grow through open source
+
 
 ## 🌐 Connect With Me
 <p align="center"> <a href="https://github.com/smartysiya"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/> </a>
@@ -58,6 +60,28 @@ Motto: Make it simple, make it beautiful ✨
 <a href="mailto:smartysiya383@gmail.com">
     <img src="https://img.shields.io/badge/Email-4A00E0?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+
+<!-- Neon Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C77DFF,100:4A00E0&height=2&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=LISTENING%20ON%20SPOTIFY&fontColor=BB86FC&fontSize=28" />
+</p>
+
+<p align="center">
+  <img
+    src="https://spotify-github-profile.vercel.app/api/view?uid=31tpb2s7lz6fzklvwxf5ettnizp4&cover_image=true&theme=novatorem&background_color=0d1117&bar_color=9D4EDD&bar_color_cover=true"
+    width="420"
+  />
+</p>
+
+<!-- Neon Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=2&section=footer" />
 </p>
 
 
