@@ -55,7 +55,7 @@ Motto: Make it simple, make it beautiful ✨
 <p align="center"> <a href="https://github.com/smartysiya"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/> </a> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-4A00E0?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="#"> <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram"/> </a> </p>
 
 
-## 🐍 Contribution Snake (Neon Purple)
+## 🐍 Contribution Snake 
 
 <p align="center">
   <img
