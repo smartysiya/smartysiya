@@ -52,7 +52,13 @@ Motto: Make it simple, make it beautiful ✨
 🌱 Grow through open source
 
 ## 🌐 Connect With Me
-<p align="center"> <a href="https://github.com/smartysiya"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/> </a> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-4A00E0?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="#"> <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram"/> </a> </p>
+<p align="center"> <a href="https://github.com/smartysiya"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/> </a>
+<a href="#"> <img src="https://img.shields.io/badge/Portfolio-4A00E0?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
+<a href="https://t.me/Ophelian_Shadows" target="_blank"> <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram"/> </a>
+<a href="mailto:smartysiya383@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4A00E0?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
 ## 🐍 Contribution Snake 
