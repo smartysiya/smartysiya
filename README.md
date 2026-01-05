@@ -56,7 +56,7 @@ Motto: Make it simple, make it beautiful ✨
 <br>
 🌱 Grow through open source
 
-<br><br>
+<br>
 ## 🌐 Connect With Me
 <p align="center"> <a href="https://github.com/smartysiya"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/> </a>
 <a href="#"> <img src="https://img.shields.io/badge/Portfolio-4A00E0?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
@@ -65,18 +65,17 @@ Motto: Make it simple, make it beautiful ✨
     <img src="https://img.shields.io/badge/Email-4A00E0?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-<br><br>
-## 🎧 Spotify (Recently Played)
+<br>
+## 🎧 Spotify
 
 <p align="center">
-  <img
-    src="https://spotify-recently-played-readme.vercel.app/api?user=31tpb2s7lz6fzklvwxf5ettnizp4&count=5"
-    alt="Spotify Recently Played"
-  />
+  <a href="https://open.spotify.com/user/31tpb2s7lz6fzklvwxf5ettnizp4" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-8E2DE2?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
 </p>
 
-<br><br>
 
+<br>
 ## 🐍 Contribution Snake 
 
 <p align="center">
