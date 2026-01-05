@@ -5,8 +5,9 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Creative+Developer;Animation+Enthusiast;Open+Source+Learner;Building+Cool+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=520&lines=Creative+Developer;Animation+Enthusiast;Open+Source+Learner;Building+Cool+Things+%F0%9F%9A%80" />
 </p>
+
 
 ---
 
