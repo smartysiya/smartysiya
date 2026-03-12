@@ -96,8 +96,10 @@ Connecting people through open chords and open source.
     alt="Neon Snake Animation"
   />
 </p>
+
 > *“Code. Create. Elevate.”* 🚀  
 > *— Innovation starts with logic.*
+
 <!-- Footer --> 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/> </p>
 
