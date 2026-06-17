@@ -16,8 +16,9 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-Name: Smarty
+Name: Khushboo R
 Username: smartysiya
+Email: khushiii.dev@gmail.com
 Location: Bangalore, India
 Interests: Animations, UI/UX, Full Stack Development 
 Learning: Advanced Frontend, Open Source, Gen & Agentic AI 
